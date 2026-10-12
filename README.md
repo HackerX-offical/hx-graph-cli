@@ -7,4 +7,9 @@ a single **engagement graph** (nodes/edges) for reporting and further automation
 hx-graph merge dns.json alive.json nmap.json -o engagement-graph.json
 ```
 
-MIT — HackerX Official
+HackerX License
+
+## License
+
+Licensed under the [HackerX License](./LICENSE). Redistributions must retain copyright,
+license text, and [NOTICE](./NOTICE) attribution per the license terms.
