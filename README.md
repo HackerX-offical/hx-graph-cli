@@ -20,7 +20,7 @@ analytics.
 ## Install
 
 ```bash
-git clone https://github.com/HackerX-offical/hx-graph-cli.git
+git clone https://github.com/HackerX-official/hx-graph-cli.git
 cd hx-graph-cli
 npm install
 npm run build
